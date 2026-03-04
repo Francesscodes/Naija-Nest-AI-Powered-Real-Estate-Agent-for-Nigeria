@@ -12,7 +12,7 @@ In a market often plagued by "ghost listings" and verification hurdles, Naija Ne
 The core strategy and architecture for Naija Nest are captured in the following documentation, located in the `/docs` directory:
 
 [Product Strategy & PRD](./docs/NAIJA_NEST_PRODUCT_DOCS.pdf): Defines user personas, core pain points (Trust, Time, Affordability), and our Unique Value Proposition.
-[System Architecture & Strategy](./docs/NAIJA_NEST_SYSTEM_ARCHITECTURE.pdf): Outlines the Java-based backend, event-driven architecture, and the "Trust Framework" used for document verification and data security.
+[System Architecture & Strategy](NAIJA NEST — SYSTEM ARCHITECTURE & TECHNICAL STRATEGY.pdf): Outlines the Java-based backend, event-driven architecture, and the "Trust Framework" used for document verification and data security.
 
  Tech Stack (Backend Architecture)
 Naija Nest is built for enterprise-grade scalability and security.
