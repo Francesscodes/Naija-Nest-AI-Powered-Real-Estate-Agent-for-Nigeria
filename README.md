@@ -9,10 +9,10 @@ Focusing on the unique landscapes of Lagos, Abuja, Port Harcourt, and Owerri, Na
 In a market often plagued by "ghost listings" and verification hurdles, Naija Nest prioritizes Trust-First Architecture. Our mission is to bridge the gap between credible property listings and safe, informed decision-making for every Nigerian user, whether they are local professionals, students, or diaspora investors.
 
  Documentation Suite
-The core strategy and architecture for Naija Nest are captured in the following documentation, located in the `/docs` directory:
+The core strategy and architecture for Naija Nest are captured in the following documentation : 
 
-[Product Strategy & PRD](./docs/NAIJA_NEST_PRODUCT_DOCS.pdf): Defines user personas, core pain points (Trust, Time, Affordability), and our Unique Value Proposition.
-[System Architecture & Strategy](NAIJA NEST — SYSTEM ARCHITECTURE & TECHNICAL STRATEGY.pdf): Outlines the Java-based backend, event-driven architecture, and the "Trust Framework" used for document verification and data security.
+[Product Strategy & PRD]: Defines user personas, core pain points (Trust, Time, Affordability), and our Unique Value Proposition.
+[System Architecture & Strategy]: Outlines the Java-based backend, event-driven architecture, and the "Trust Framework" used for document verification and data security.
 
  Tech Stack (Backend Architecture)
 Naija Nest is built for enterprise-grade scalability and security.
